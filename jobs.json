@@ -254,5 +254,19 @@
       "SIEM"
     ],
     "postedDate": "2025-05-08"
+  },
+  {
+    "id": "JOB1779786265404",
+    "title": "UX Designer",
+    "company": "Google",
+    "desc": "A full time job",
+    "rate": 40,
+    "location": "Melbourne, Australia",
+    "employmentType": "Full-Time",
+    "skills": [
+      "Django",
+      "PostgreSQL"
+    ],
+    "postedDate": "2026-05-26"
   }
 ]

@@ -7,7 +7,11 @@
     "rate": 40,
     "location": "New York, NY",
     "employmentType": "Full-time",
-    "skills": ["JavaScript", "React", "Node.js"],
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js"
+    ],
     "postedDate": "2025-05-14"
   },
   {
@@ -18,7 +22,11 @@
     "rate": 45,
     "location": "Austin, TX",
     "employmentType": "Full-time",
-    "skills": ["Python", "Django", "PostgreSQL"],
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL"
+    ],
     "postedDate": "2025-05-13"
   },
   {
@@ -29,7 +37,11 @@
     "rate": 38,
     "location": "Remote",
     "employmentType": "Contract",
-    "skills": ["HTML", "CSS", "Vue.js"],
+    "skills": [
+      "HTML",
+      "CSS",
+      "Vue.js"
+    ],
     "postedDate": "2025-05-12"
   },
   {
@@ -40,7 +52,11 @@
     "rate": 42,
     "location": "Los Angeles, CA",
     "employmentType": "Full-time",
-    "skills": ["React Native", "Flutter", "REST APIs"],
+    "skills": [
+      "React Native",
+      "Flutter",
+      "REST APIs"
+    ],
     "postedDate": "2025-05-11"
   },
   {
@@ -51,7 +67,12 @@
     "rate": 50,
     "location": "Chicago, IL",
     "employmentType": "Full-time",
-    "skills": ["AWS", "Docker", "Kubernetes", "Terraform"],
+    "skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform"
+    ],
     "postedDate": "2025-05-10"
   },
   {
@@ -62,7 +83,11 @@
     "rate": 35,
     "location": "Remote",
     "employmentType": "Part-time",
-    "skills": ["SQL", "Excel", "Power BI"],
+    "skills": [
+      "SQL",
+      "Excel",
+      "Power BI"
+    ],
     "postedDate": "2025-05-09"
   },
   {
@@ -73,7 +98,11 @@
     "rate": 37,
     "location": "Mountain View, CA",
     "employmentType": "Full-time",
-    "skills": ["Selenium", "Java", "Jenkins"],
+    "skills": [
+      "Selenium",
+      "Java",
+      "Jenkins"
+    ],
     "postedDate": "2025-05-18"
   },
   {
@@ -84,7 +113,11 @@
     "rate": 52,
     "location": "New York, NY",
     "employmentType": "Full-time",
-    "skills": ["GCP", "Terraform", "Python"],
+    "skills": [
+      "GCP",
+      "Terraform",
+      "Python"
+    ],
     "postedDate": "2025-05-16"
   },
   {
@@ -95,7 +128,11 @@
     "rate": 60,
     "location": "San Francisco, CA",
     "employmentType": "Full-time",
-    "skills": ["Agile", "Scrum", "Communication"],
+    "skills": [
+      "Agile",
+      "Scrum",
+      "Communication"
+    ],
     "postedDate": "2025-05-17"
   },
   {
@@ -106,7 +143,11 @@
     "rate": 58,
     "location": "Seattle, WA",
     "employmentType": "Full-time",
-    "skills": ["Network Security", "Cryptography", "Penetration Testing"],
+    "skills": [
+      "Network Security",
+      "Cryptography",
+      "Penetration Testing"
+    ],
     "postedDate": "2025-05-15"
   },
   {
@@ -117,7 +158,11 @@
     "rate": 32,
     "location": "Remote",
     "employmentType": "Part-time",
-    "skills": ["Writing", "Markdown", "API Documentation"],
+    "skills": [
+      "Writing",
+      "Markdown",
+      "API Documentation"
+    ],
     "postedDate": "2025-05-14"
   },
   {
@@ -128,7 +173,11 @@
     "rate": 40,
     "location": "Mountain View, CA",
     "employmentType": "Full-time",
-    "skills": ["Figma", "Adobe XD", "User Research"],
+    "skills": [
+      "Figma",
+      "Adobe XD",
+      "User Research"
+    ],
     "postedDate": "2025-05-13"
   },
   {
@@ -139,7 +188,11 @@
     "rate": 55,
     "location": "Austin, TX",
     "employmentType": "Full-time",
-    "skills": ["Kubernetes", "Monitoring", "Go"],
+    "skills": [
+      "Kubernetes",
+      "Monitoring",
+      "Go"
+    ],
     "postedDate": "2025-05-12"
   },
   {
@@ -150,7 +203,11 @@
     "rate": 38,
     "location": "New York, NY",
     "employmentType": "Full-time",
-    "skills": ["Data Analysis", "Excel", "Communication"],
+    "skills": [
+      "Data Analysis",
+      "Excel",
+      "Communication"
+    ],
     "postedDate": "2025-05-11"
   },
   {
@@ -161,7 +218,11 @@
     "rate": 37,
     "location": "Seattle, WA",
     "employmentType": "Full-time",
-    "skills": ["Unity", "C#", "Blender"],
+    "skills": [
+      "Unity",
+      "C#",
+      "Blender"
+    ],
     "postedDate": "2025-05-10"
   },
   {
@@ -172,7 +233,11 @@
     "rate": 55,
     "location": "Boston, MA",
     "employmentType": "Full-time",
-    "skills": ["Python", "TensorFlow", "Pandas"],
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Pandas"
+    ],
     "postedDate": "2025-05-09"
   },
   {
@@ -183,7 +248,24 @@
     "rate": 60,
     "location": "San Francisco, CA",
     "employmentType": "Full-time",
-    "skills": ["Network Security", "Penetration Testing", "SIEM"],
+    "skills": [
+      "Network Security",
+      "Penetration Testing",
+      "SIEM"
+    ],
     "postedDate": "2025-05-08"
+  },
+  {
+    "id": "JOB1779956783405",
+    "title": "Saas Internship",
+    "company": "Google",
+    "desc": "a nice internship",
+    "rate": 40,
+    "location": "Melbourne",
+    "employmentType": "Internship",
+    "skills": [
+      "JavaScript"
+    ],
+    "postedDate": "2026-05-28"
   }
 ]
